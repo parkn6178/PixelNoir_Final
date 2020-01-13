@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "133ff571-07be-41f9-b72b-93fedc47905d",
+            "Value": {
+                "id": "f0fa47ad-f363-44fa-afe4-be4a6efaa104",
+                "resourcePath": "objects\\obj_gameCam\\obj_gameCam.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "22586f72-224d-481b-8946-b5e316753500",
             "Value": {
                 "id": "3e4e547c-e6fc-4bb8-b2d7-3ea7219caf93",
@@ -82,7 +90,7 @@
             "Key": "33e511e6-4b62-4672-b1ed-573e18bb6a74",
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\city\\city.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -132,14 +140,6 @@
                 "id": "d254624f-5674-459b-9e77-a3aebe2771ba",
                 "resourcePath": "sprites\\ben\\ben.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7d177c20-e1d9-49ee-864c-8d7954ccbbd1",
-            "Value": {
-                "id": "c6861662-5c68-4297-9039-6a1be985e252",
-                "resourcePath": "views\\7d177c20-e1d9-49ee-864c-8d7954ccbbd1.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -202,7 +202,7 @@
             "Key": "b0d591db-7cdc-4069-b9a4-3fcecfbbf5cd",
             "Value": {
                 "id": "5f75354e-2c1c-4448-8459-e7342881a614",
-                "resourcePath": "sprites\\background\\background.yy",
+                "resourcePath": "sprites\\cityBlock\\cityBlock.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -243,6 +243,14 @@
             "Value": {
                 "id": "db811836-caa1-4172-bf2e-ebd0e411fb40",
                 "resourcePath": "views\\c8081309-feca-4b32-98cb-292b54b79182.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb9d5f9a-d511-4891-b371-914b0401972d",
+            "Value": {
+                "id": "ad82cca6-ec49-4752-b672-d1aa31a9d84a",
+                "resourcePath": "views\\cb9d5f9a-d511-4891-b371-914b0401972d.yy",
                 "resourceType": "GMFolder"
             }
         },
