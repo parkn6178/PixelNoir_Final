@@ -2,7 +2,7 @@
     "id": "b0d591db-7cdc-4069-b9a4-3fcecfbbf5cd",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "background",
+    "name": "cityBlock",
     "For3D": false,
     "HTile": false,
     "VTile": false,
