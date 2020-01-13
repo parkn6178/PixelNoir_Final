@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "267c66f4-ce5b-4c78-aef4-a5484a6a6220",
+            "Value": {
+                "id": "33035a4f-bf0c-4716-942f-fb2bb016bb1b",
+                "resourcePath": "objects\\obj_policeDoor\\obj_policeDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ac4a32c-e0eb-4a27-864f-b7329fda24f4",
             "Value": {
                 "id": "f24b2b2c-c61a-4088-bca0-9af050f5aed2",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
                 "resourcePath": "rooms\\city\\city.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "348bb94d-bf81-43d0-aa0e-ef5b20e20591",
+            "Value": {
+                "id": "2e28b2b7-c939-40ad-8e65-c0d3cb5d4479",
+                "resourcePath": "rooms\\room2\\room2.yy",
                 "resourceType": "GMRoom"
             }
         },

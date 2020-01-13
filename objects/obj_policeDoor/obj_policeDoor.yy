@@ -1,28 +1,28 @@
 {
-    "id": "bec0103e-96b2-4b82-88c9-381e0342c494",
+    "id": "267c66f4-ce5b-4c78-aef4-a5484a6a6220",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cityHallDoor",
+    "name": "obj_policeDoor",
     "eventList": [
         {
-            "id": "b2fbe2df-139a-4a7d-a5e1-3ff5421b53cd",
+            "id": "14201110-838a-438d-bf27-30a86931e2f4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "bec0103e-96b2-4b82-88c9-381e0342c494"
+            "m_owner": "267c66f4-ce5b-4c78-aef4-a5484a6a6220"
         },
         {
-            "id": "bf462d8c-23b8-41a4-b371-67a5a1581fe3",
+            "id": "041ff574-f07a-48e7-9fef-aa13866f887a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "c1d495d7-ae51-4236-b78c-34588359545e",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "bec0103e-96b2-4b82-88c9-381e0342c494"
+            "m_owner": "267c66f4-ce5b-4c78-aef4-a5484a6a6220"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "9d3c24a0-0b6c-4b58-baf9-9c1131c8f1f5",
+    "spriteId": "0a51bce6-976d-498f-9d75-ba635dcf7557",
     "visible": true
 }
