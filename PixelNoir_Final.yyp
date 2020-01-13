@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "9d3c24a0-0b6c-4b58-baf9-9c1131c8f1f5",
+            "Value": {
+                "id": "2ad7be6a-e425-46cc-a478-28d8325cb7ed",
+                "resourcePath": "sprites\\door\\door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a55515d5-509f-499a-898d-cd0ceadf3779",
             "Value": {
                 "id": "42b3dbd3-d936-4485-a824-a895312d33ee",
@@ -332,6 +340,14 @@
                 "id": "2eb6f575-b721-4e0e-997e-39fc613dbe17",
                 "resourcePath": "views\\bddb3846-db10-4797-844f-662a8f3e4fd1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bec0103e-96b2-4b82-88c9-381e0342c494",
+            "Value": {
+                "id": "0cd1b77f-8a15-4f0b-96ff-66179187c7ca",
+                "resourcePath": "objects\\obj_cityHallDoor\\obj_cityHallDoor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
