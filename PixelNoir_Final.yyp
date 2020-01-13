@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "757dc661-bc41-4a5c-b91b-5734d285b78a",
+            "Value": {
+                "id": "9452be4f-f360-49c0-a5ef-877e7792dd47",
+                "resourcePath": "objects\\obj_brick\\obj_brick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
             "Value": {
                 "id": "51a7b234-94af-4510-bfcc-759a003d086e",
