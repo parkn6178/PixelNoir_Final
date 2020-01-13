@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0efd5ebb-abaf-4e79-bf99-ec041aed37da",
+            "Value": {
+                "id": "e697d94c-65e4-4fb5-abb1-3fdb7967c77c",
+                "resourcePath": "sprites\\mayor\\mayor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22586f72-224d-481b-8946-b5e316753500",
             "Value": {
                 "id": "3e4e547c-e6fc-4bb8-b2d7-3ea7219caf93",
@@ -71,11 +79,27 @@
             }
         },
         {
+            "Key": "3a197ffb-ef0f-43a2-86c4-38f691f4a5fa",
+            "Value": {
+                "id": "368d5abc-140b-48e8-bce3-3c8d403bbb0c",
+                "resourcePath": "sprites\\asher\\asher.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fc57df3-3f15-4d99-ab09-f5c05b529319",
             "Value": {
                 "id": "9c24b7ae-1b2b-469c-8961-53824549127e",
                 "resourcePath": "views\\3fc57df3-3f15-4d99-ab09-f5c05b529319.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fba4810-16ba-4f96-9c46-d5c97c7deb3b",
+            "Value": {
+                "id": "d254624f-5674-459b-9e77-a3aebe2771ba",
+                "resourcePath": "sprites\\ben\\ben.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "8f048fb7-a723-4765-9e8b-0cbb39b04e31",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd671b27-52d8-423d-9bd9-8a1fac512501",
+            "Value": {
+                "id": "bc02d60e-dc78-49ae-8931-1a433d278080",
+                "resourcePath": "sprites\\police\\police.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
