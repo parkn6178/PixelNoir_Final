@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
+            "Value": {
+                "id": "51a7b234-94af-4510-bfcc-759a003d086e",
+                "resourcePath": "sounds\\buttonpress\\buttonpress.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "92940f6c-38bf-47e3-a7c1-7e966f04f998",
             "Value": {
                 "id": "8f8a971f-e11b-4257-ae24-7dedd0977601",
@@ -298,7 +306,7 @@
             "Key": "e3c28c28-907a-4477-b3e0-616188f7db8c",
             "Value": {
                 "id": "3116378c-4976-42f7-9085-5062a29b5665",
-                "resourcePath": "sounds\\PickUp\\PickUp.yy",
+                "resourcePath": "sounds\\pickup\\pickup.yy",
                 "resourceType": "GMSound"
             }
         },

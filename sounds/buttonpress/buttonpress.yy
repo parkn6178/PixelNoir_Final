@@ -1,8 +1,8 @@
 {
-    "id": "e3c28c28-907a-4477-b3e0-616188f7db8c",
+    "id": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "pickup",
+    "name": "buttonpress",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
