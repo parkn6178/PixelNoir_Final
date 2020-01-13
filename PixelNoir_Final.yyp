@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "093dc701-0027-4d22-8971-2518458d384a",
+            "Value": {
+                "id": "011202bc-8112-47df-bd44-64131787c0a6",
+                "resourcePath": "sounds\\backgroundmusic\\backgroundmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0efd5ebb-abaf-4e79-bf99-ec041aed37da",
             "Value": {
                 "id": "e697d94c-65e4-4fb5-abb1-3fdb7967c77c",
@@ -124,6 +132,14 @@
                 "id": "a306d58c-ca6a-48c9-be3e-db4f6a450500",
                 "resourcePath": "sprites\\money\\money.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e2d5ef1-3eb1-4ccb-bc9f-5a5d3bb2e884",
+            "Value": {
+                "id": "239f194f-21f4-4d41-8ba0-b32b560e0b79",
+                "resourcePath": "sounds\\footsteps\\footsteps.yy",
+                "resourceType": "GMSound"
             }
         },
         {
