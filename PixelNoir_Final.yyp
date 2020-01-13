@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2ac4a32c-e0eb-4a27-864f-b7329fda24f4",
+            "Value": {
+                "id": "f24b2b2c-c61a-4088-bca0-9af050f5aed2",
+                "resourcePath": "objects\\obj_mayor\\obj_mayor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2b872e8b-2ae0-4c90-b2de-a65b587cb672",
             "Value": {
                 "id": "fd3f7268-92a4-49ae-b676-b6571c64b733",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "4e66bdf8-f53c-4549-b96c-d75fe339260c",
+            "Value": {
+                "id": "736cf1bf-de72-41ff-8830-90e9e44c73eb",
+                "resourcePath": "objects\\obj_police\\obj_police.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "52056bf8-71dd-4e92-94fc-995004cbdae4",
             "Value": {
                 "id": "e7a37f09-f7a2-4e7f-95d0-615dcd45f80e",
@@ -172,6 +188,22 @@
                 "id": "239f194f-21f4-4d41-8ba0-b32b560e0b79",
                 "resourcePath": "sounds\\footsteps\\footsteps.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "653dd71d-12fe-479a-97cc-c07d699d5b28",
+            "Value": {
+                "id": "070082c4-cea8-4ae4-a60a-da7e041b2918",
+                "resourcePath": "objects\\obj_asher\\obj_asher.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "687eb427-d7a2-43a2-a053-f00397d1b41b",
+            "Value": {
+                "id": "20441464-5bc0-423b-a2eb-f3be36126c0a",
+                "resourcePath": "objects\\obj_fries\\obj_fries.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "6d2971d5-07fc-4a96-a246-1e5831aaf55f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5bf214c-91a0-44f6-921b-75da59c26c9d",
+            "Value": {
+                "id": "8c97d42d-6a39-4d4d-8a19-e2e8a766b659",
+                "resourcePath": "objects\\obj_ben\\obj_ben.yy",
+                "resourceType": "GMObject"
             }
         },
         {
