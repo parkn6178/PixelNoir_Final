@@ -7,3 +7,8 @@ key_jump = keyboard_check_pressed (vk_up);
 var move = key_right - key_left;
 hsp = move * walksp;
 vsp = vsp + grv;
+
+if (place_meeting (x, y+1, obj_brick)) && (key_jump)
+{
+	vsp = -7
+}

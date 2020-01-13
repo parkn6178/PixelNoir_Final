@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "1f3e1be8-3721-460d-8f3f-d20dd5e50ea4",
-            "Value": {
-                "id": "b63ddcca-c47c-4e3a-a02e-73ccc71cbf8f",
-                "resourcePath": "sprites\\spr_door\\spr_door.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "22586f72-224d-481b-8946-b5e316753500",
             "Value": {
                 "id": "3e4e547c-e6fc-4bb8-b2d7-3ea7219caf93",
@@ -132,14 +124,6 @@
                 "id": "368d5abc-140b-48e8-bce3-3c8d403bbb0c",
                 "resourcePath": "sprites\\asher\\asher.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3d8cb5f6-120c-4e10-9317-c8b3289a205e",
-            "Value": {
-                "id": "75f92146-5b82-4e42-8bda-f7539941ee75",
-                "resourcePath": "rooms\\policeStation\\policeStation.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -231,11 +215,11 @@
             }
         },
         {
-            "Key": "7a3aea2f-df4b-4fd1-92b0-872197498d88",
+            "Key": "757dc661-bc41-4a5c-b91b-5734d285b78a",
             "Value": {
-                "id": "14fc3954-b409-466b-b74e-3c00688e889d",
-                "resourcePath": "rooms\\diner\\diner.yy",
-                "resourceType": "GMRoom"
+                "id": "9452be4f-f360-49c0-a5ef-877e7792dd47",
+                "resourcePath": "objects\\obj_brick\\obj_brick.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,14 +228,6 @@
                 "id": "51a7b234-94af-4510-bfcc-759a003d086e",
                 "resourcePath": "sounds\\buttonpress\\buttonpress.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "89e686d3-b968-444e-a85d-fc81e8e1500a",
-            "Value": {
-                "id": "16ac6b0b-3b32-4b21-a343-84d3948918b9",
-                "resourcePath": "objects\\obj_cityHallDoor\\obj_cityHallDoor.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -276,14 +252,6 @@
                 "id": "c54ce20f-4d01-4d6c-8aa9-0b4d11d5a009",
                 "resourcePath": "sprites\\detective\\detective.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9a8566b6-52f1-43a7-a062-88911b9df8d5",
-            "Value": {
-                "id": "36ae9b64-176d-46b3-b080-176e45189bc8",
-                "resourcePath": "rooms\\townHall\\townHall.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -420,6 +388,14 @@
                 "id": "e6b4b25d-3ebd-4888-9cb8-284e3166a127",
                 "resourcePath": "views\\cf020eb3-727a-4a80-923a-ee803dd7f7cd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d11a08a4-1706-47bd-9c8a-ab10626e06b0",
+            "Value": {
+                "id": "f343a0db-180f-4178-97eb-d7eddb0d4d70",
+                "resourcePath": "sprites\\spr_brick\\spr_brick.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
