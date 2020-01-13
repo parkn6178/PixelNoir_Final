@@ -5,6 +5,9 @@ key_jump = keyboard_check_pressed (vk_up);
 
 // Calculate player movement
 var move = key_right - key_left;
+
+audio_play_sound(footsteps,0,0)
+
 hsp = move * walksp;
 vsp = vsp + grv;
 
