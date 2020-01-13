@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0a51bce6-976d-498f-9d75-ba635dcf7557",
+            "Value": {
+                "id": "66dbd3f9-90c0-4b0b-867c-fae80db694b9",
+                "resourcePath": "sprites\\door\\door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0efd5ebb-abaf-4e79-bf99-ec041aed37da",
             "Value": {
                 "id": "e697d94c-65e4-4fb5-abb1-3fdb7967c77c",
@@ -258,7 +266,7 @@
             "Key": "9d3c24a0-0b6c-4b58-baf9-9c1131c8f1f5",
             "Value": {
                 "id": "2ad7be6a-e425-46cc-a478-28d8325cb7ed",
-                "resourcePath": "sprites\\door\\door.yy",
+                "resourcePath": "sprites\\cityHallDoor\\cityHallDoor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -404,6 +412,14 @@
                 "id": "e6b4b25d-3ebd-4888-9cb8-284e3166a127",
                 "resourcePath": "views\\cf020eb3-727a-4a80-923a-ee803dd7f7cd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d11196df-2063-4153-8021-a8e4a140391d",
+            "Value": {
+                "id": "fc05a606-f08c-4e76-90b3-9ed32f90f98d",
+                "resourcePath": "rooms\\cityHall\\cityHall.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
