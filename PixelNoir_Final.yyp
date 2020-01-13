@@ -143,6 +143,30 @@
             }
         },
         {
+            "Key": "52056bf8-71dd-4e92-94fc-995004cbdae4",
+            "Value": {
+                "id": "e7a37f09-f7a2-4e7f-95d0-615dcd45f80e",
+                "resourcePath": "objects\\obj_notebook\\obj_notebook.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5bc46d83-abe3-4de6-ab1f-e7dbe091c5aa",
+            "Value": {
+                "id": "6c16b20a-3e01-4822-adc8-eb8c9f01d7d2",
+                "resourcePath": "objects\\obj_cloth\\obj_cloth.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5cd3c438-aacb-49fb-9506-9e4236c1a74e",
+            "Value": {
+                "id": "f4b2db26-fd31-41ca-8354-9ee7745f9112",
+                "resourcePath": "objects\\obj_money\\obj_money.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e2d5ef1-3eb1-4ccb-bc9f-5a5d3bb2e884",
             "Value": {
                 "id": "239f194f-21f4-4d41-8ba0-b32b560e0b79",
@@ -191,6 +215,14 @@
             }
         },
         {
+            "Key": "a55515d5-509f-499a-898d-cd0ceadf3779",
+            "Value": {
+                "id": "42b3dbd3-d936-4485-a824-a895312d33ee",
+                "resourcePath": "objects\\obj_cityblock\\obj_cityblock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a559b1ce-d898-4c3d-b8eb-fe83056fd260",
             "Value": {
                 "id": "36cf1260-bc74-465a-9b40-26fe51b2e352",
@@ -220,6 +252,14 @@
                 "id": "33d5f1e7-1cb5-4b67-afd2-fa9fb25a06a3",
                 "resourcePath": "views\\af29942a-a9bf-4d57-88fb-2f1660077a05.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0825e4f-fa85-4396-9065-37f7f7cce7d0",
+            "Value": {
+                "id": "d1830724-00f3-4aff-ba75-d5c97eda0cab",
+                "resourcePath": "objects\\obj_inventory\\obj_inventory.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -259,6 +299,14 @@
             "Value": {
                 "id": "3316c819-8f2f-47f4-9efb-2ab832e125f5",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c588da5b-c1f2-48f6-a61d-ca5ac151574a",
+            "Value": {
+                "id": "eb1500af-8ec2-4191-9e5d-4c81b61a7eeb",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
                 "resourceType": "GMObject"
             }
         },
