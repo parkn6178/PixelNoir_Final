@@ -1,5 +1,5 @@
 // Player collision
-if (touchingDoor_1 == true)
+if (touchingPoliceDoor == true)
 {
-	room_goto(policeStation);
+	room_goto(rm_policeStation);
 }

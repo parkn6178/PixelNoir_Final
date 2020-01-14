@@ -50,7 +50,7 @@
             "Key": "0a51bce6-976d-498f-9d75-ba635dcf7557",
             "Value": {
                 "id": "66dbd3f9-90c0-4b0b-867c-fae80db694b9",
-                "resourcePath": "sprites\\door\\door.yy",
+                "resourcePath": "sprites\\policeDoor\\policeDoor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -60,6 +60,14 @@
                 "id": "e697d94c-65e4-4fb5-abb1-3fdb7967c77c",
                 "resourcePath": "sprites\\mayor\\mayor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f2de2c8-264a-4f96-917b-a4a163b9347d",
+            "Value": {
+                "id": "0522a09d-1b40-46ea-91b7-9da18f7a0c98",
+                "resourcePath": "views\\0f2de2c8-264a-4f96-917b-a4a163b9347d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -122,7 +130,7 @@
             "Key": "33e511e6-4b62-4672-b1ed-573e18bb6a74",
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
-                "resourcePath": "rooms\\city\\city.yy",
+                "resourcePath": "rooms\\rm_city\\rm_city.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -130,7 +138,7 @@
             "Key": "348bb94d-bf81-43d0-aa0e-ef5b20e20591",
             "Value": {
                 "id": "2e28b2b7-c939-40ad-8e65-c0d3cb5d4479",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\rm_policeStation\\rm_policeStation.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -247,11 +255,27 @@
             }
         },
         {
+            "Key": "75d00904-30e9-4550-b910-2f585690582a",
+            "Value": {
+                "id": "b5a43379-4731-4053-9889-dad64fc28bcf",
+                "resourcePath": "views\\75d00904-30e9-4550-b910-2f585690582a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
             "Value": {
                 "id": "51a7b234-94af-4510-bfcc-759a003d086e",
                 "resourcePath": "sounds\\buttonpress\\buttonpress.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7f9837f3-de23-400b-8835-8df774341654",
+            "Value": {
+                "id": "7f7bc0cb-049b-47c3-b6e1-ef0d53f8a1c2",
+                "resourcePath": "rooms\\rm_diner\\rm_diner.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "b687e04e-1c61-4e41-88a9-7bea852bcaf2",
+            "Value": {
+                "id": "9435a6d4-8d3f-44cf-8020-1be9dd0c8585",
+                "resourcePath": "views\\b687e04e-1c61-4e41-88a9-7bea852bcaf2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b75a3ce8-fcba-4a43-a69d-60d855b760f4",
             "Value": {
                 "id": "9394fbae-1795-402f-86e1-feae499db4ed",
@@ -371,6 +403,14 @@
             "Value": {
                 "id": "0cd1b77f-8a15-4f0b-96ff-66179187c7ca",
                 "resourcePath": "objects\\obj_cityHallDoor\\obj_cityHallDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bfdc8f78-c521-4c4e-9a85-9e2602df941d",
+            "Value": {
+                "id": "540b5c0a-da81-4d58-8885-567489e492ea",
+                "resourcePath": "objects\\obj_dinerDoor\\obj_dinerDoor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -434,7 +474,7 @@
             "Key": "d11196df-2063-4153-8021-a8e4a140391d",
             "Value": {
                 "id": "fc05a606-f08c-4e76-90b3-9ed32f90f98d",
-                "resourcePath": "rooms\\cityHall\\cityHall.yy",
+                "resourcePath": "rooms\\rm_cityHall\\rm_cityHall.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -468,6 +508,14 @@
                 "id": "6d2971d5-07fc-4a96-a246-1e5831aaf55f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f533072a-f4e0-4024-ac39-356b66b855bd",
+            "Value": {
+                "id": "aeb53433-1112-4937-94ee-ea20750bcba0",
+                "resourcePath": "views\\f533072a-f4e0-4024-ac39-356b66b855bd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
