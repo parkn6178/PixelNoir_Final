@@ -50,7 +50,7 @@
             "Key": "0a51bce6-976d-498f-9d75-ba635dcf7557",
             "Value": {
                 "id": "66dbd3f9-90c0-4b0b-867c-fae80db694b9",
-                "resourcePath": "sprites\\door\\door.yy",
+                "resourcePath": "sprites\\policeDoor\\policeDoor.yy",
                 "resourceType": "GMSprite"
             }
         },
