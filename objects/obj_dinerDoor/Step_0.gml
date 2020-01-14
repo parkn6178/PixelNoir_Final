@@ -9,3 +9,9 @@ if (keyboard_check_pressed(vk_space))
 		touchingDinerDoor = false;	
 	}
 }
+
+// Player collision
+if (touchingDinerDoor == true)
+{
+	room_goto(rm_diner);
+}

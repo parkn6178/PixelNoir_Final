@@ -9,3 +9,9 @@ if (keyboard_check_pressed(vk_space))
 		touchingCityHallDoor = false;	
 	}
 }
+
+// Player collision
+if (touchingCityHallDoor == true)
+{
+	room_goto(rm_cityHall);
+}
