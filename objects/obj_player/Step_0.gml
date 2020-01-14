@@ -12,3 +12,5 @@ if (place_meeting (x, y+1, obj_brick)) && (key_jump)
 {
 	vsp = -7
 }
+
+// Horizontal collision
