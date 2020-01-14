@@ -11,7 +11,7 @@ vsp = vsp + grv;
 
 if (place_meeting (x, y + 1, obj_brick)) && (key_jump)
 {
-	vsp = -7
+	vsp = -4
 }
 
 // Horizontal collision rules
