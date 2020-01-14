@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0f2de2c8-264a-4f96-917b-a4a163b9347d",
+            "Value": {
+                "id": "0522a09d-1b40-46ea-91b7-9da18f7a0c98",
+                "resourcePath": "views\\0f2de2c8-264a-4f96-917b-a4a163b9347d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "133ff571-07be-41f9-b72b-93fedc47905d",
             "Value": {
                 "id": "f0fa47ad-f363-44fa-afe4-be4a6efaa104",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "75d00904-30e9-4550-b910-2f585690582a",
+            "Value": {
+                "id": "b5a43379-4731-4053-9889-dad64fc28bcf",
+                "resourcePath": "views\\75d00904-30e9-4550-b910-2f585690582a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
             "Value": {
                 "id": "51a7b234-94af-4510-bfcc-759a003d086e",
@@ -355,6 +371,14 @@
             "Value": {
                 "id": "141ded9b-8009-4588-9cb7-eda3eae56504",
                 "resourcePath": "views\\b16a30fb-ce83-482b-8e04-4af233c0aa07.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b687e04e-1c61-4e41-88a9-7bea852bcaf2",
+            "Value": {
+                "id": "9435a6d4-8d3f-44cf-8020-1be9dd0c8585",
+                "resourcePath": "views\\b687e04e-1c61-4e41-88a9-7bea852bcaf2.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -484,6 +508,14 @@
                 "id": "6d2971d5-07fc-4a96-a246-1e5831aaf55f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f533072a-f4e0-4024-ac39-356b66b855bd",
+            "Value": {
+                "id": "aeb53433-1112-4937-94ee-ea20750bcba0",
+                "resourcePath": "views\\f533072a-f4e0-4024-ac39-356b66b855bd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
