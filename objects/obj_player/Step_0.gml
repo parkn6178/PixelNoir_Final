@@ -16,7 +16,7 @@ if (place_meeting (x, y + 1, obj_brick)) && (key_jump)
 	vsp = -7
 }
 
-// Horizontal collision
+// Horizontal collision rules
 if (place_meeting (x + hsp, y, obj_brick))
 {
 	while (!place_meeting (x + sign (hsp), y, obj_brick))
@@ -26,3 +26,14 @@ if (place_meeting (x + hsp, y, obj_brick))
 	hsp = 0;
 }
 x = x + hsp;
+
+// Vertical collision rules
+if (place_meeting (x, y + vsp, obj_brick))
+{
+	while (!place_meeting (x, y + sign (vsp), obj_brick))
+	{
+		y = y + sign (vsp);
+	}
+	vsp = 0;
+}
+y = y + vsp;
