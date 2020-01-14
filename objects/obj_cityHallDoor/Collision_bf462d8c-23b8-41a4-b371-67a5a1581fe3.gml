@@ -1,5 +1,5 @@
 // Player collision
-if (touchingDoor == true)
+if (touchingCityHallDoor == true)
 {
-	room_goto(cityHall);
+	room_goto(rm_cityHall);
 }

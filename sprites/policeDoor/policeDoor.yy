@@ -2,7 +2,7 @@
     "id": "0a51bce6-976d-498f-9d75-ba635dcf7557",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "door",
+    "name": "policeDoor",
     "For3D": false,
     "HTile": false,
     "VTile": false,
