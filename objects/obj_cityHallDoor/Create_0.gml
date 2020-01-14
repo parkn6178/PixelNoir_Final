@@ -1,0 +1,1 @@
+touchingCityHallDoor = false;

@@ -1,0 +1,1 @@
+touchingDinerDoor = false;
