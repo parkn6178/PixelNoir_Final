@@ -11,9 +11,18 @@ audio_play_sound(footsteps,0,0)
 hsp = move * walksp;
 vsp = vsp + grv;
 
-if (place_meeting (x, y+1, obj_brick)) && (key_jump)
+if (place_meeting (x, y + 1, obj_brick)) && (key_jump)
 {
 	vsp = -7
 }
 
 // Horizontal collision
+if (place_meeting (x + hsp, y, obj_brick))
+{
+	while (!place_meeting (x + sign (hsp), y, obj_brick))
+	{
+		x = x + sign (hsp);
+	}
+	hsp = 0;
+}
+x = x + hsp;
