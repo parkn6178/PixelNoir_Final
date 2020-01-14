@@ -1,0 +1,1 @@
+touchingPoliceDoor = false;
