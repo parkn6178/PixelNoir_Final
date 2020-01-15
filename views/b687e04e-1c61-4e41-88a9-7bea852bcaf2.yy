@@ -8,7 +8,8 @@
         "975339a3-d53e-4e6c-a0b2-1dded7446d94",
         "0efd5ebb-abaf-4e79-bf99-ec041aed37da",
         "6fba4810-16ba-4f96-9c46-d5c97c7deb3b",
-        "cd671b27-52d8-423d-9bd9-8a1fac512501"
+        "cd671b27-52d8-423d-9bd9-8a1fac512501",
+        "de9ff871-cdef-44fc-b382-488faec6ca2d"
     ],
     "filterType": "GMSprite",
     "folderName": "People",

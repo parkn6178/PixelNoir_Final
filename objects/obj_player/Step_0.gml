@@ -35,10 +35,16 @@ if (place_meeting (x, y + vsp, obj_brick))
 }
 y = y + vsp;
 
+//Set animation
+if (!place_meeting (x, y + 1, obj_brick))
+{
+	
+}
+
 //Footsteps SFX
 if sprite_index=obj_player
 {
-	if image_index=0 + 1
+	if image_index=0
 	{
 		if position_meeting(x,y+32,obj_brick)
 		{

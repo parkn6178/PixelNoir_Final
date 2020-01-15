@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "de9ff871-cdef-44fc-b382-488faec6ca2d",
+            "Value": {
+                "id": "8b8a5753-46a1-468f-9320-e35c6b027437",
+                "resourcePath": "sprites\\detectiveR\\detectiveR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dea975f8-466e-4a9d-be6a-c4ff50bcb0fa",
             "Value": {
                 "id": "7221dc4a-2e9a-4b1e-a063-3e611dcb5ea6",
