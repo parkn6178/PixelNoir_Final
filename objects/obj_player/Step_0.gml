@@ -46,6 +46,8 @@ else
 	sprite_index = detectiveR
 }
 
+if (hsp != 0) image_xscale = sign (hsp);
+
 //Footsteps SFX
 if (sprite_index = detectiveR) && (place_meeting( x, y + 1, obj_brick))
 {
