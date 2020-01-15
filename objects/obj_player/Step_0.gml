@@ -52,3 +52,5 @@ if sprite_index=obj_player
 		}
 	}
 }
+
+
