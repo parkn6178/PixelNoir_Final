@@ -47,13 +47,7 @@ else
 }
 
 //Footsteps SFX
-if sprite_index=obj_player
+if (sprite_index = detectiveR) && (place_meeting( x, y + 1, obj_brick))
 {
-	if image_index=0
-	{
-		if position_meeting(x,y+32,obj_brick)
-		{
-			audio_play_sound(footsteps,0,false);
-		}
-	}
+	audio_play_sound(footsteps,0,false);	
 }
