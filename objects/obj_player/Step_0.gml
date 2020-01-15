@@ -53,3 +53,5 @@ if (sprite_index = detectiveR) && (place_meeting( x, y + 1, obj_brick))
 {
 	audio_play_sound(footsteps,0,false);	
 }
+
+
