@@ -36,9 +36,14 @@ if (place_meeting (x, y + vsp, obj_brick))
 y = y + vsp;
 
 //Set animation
-if (!place_meeting (x, y + 1, obj_brick))
+image_speed = 1
+if (hsp == 0)
 {
-	
+	sprite_index = detective
+}
+else
+{
+	sprite_index = detectiveR
 }
 
 //Footsteps SFX
