@@ -38,7 +38,7 @@ y = y + vsp;
 //Footsteps SFX
 if sprite_index=obj_player
 {
-	if image_index=0
+	if image_index=0 + 1
 	{
 		if position_meeting(x,y+32,obj_brick)
 		{
@@ -46,4 +46,3 @@ if sprite_index=obj_player
 		}
 	}
 }
-
