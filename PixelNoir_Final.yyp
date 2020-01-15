@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0eed99cb-ff98-43b5-92c2-aa19281a5468",
+            "Value": {
+                "id": "7fbbbc26-e4fc-4823-bbb9-0ef201199142",
+                "resourcePath": "fonts\\fnt_textbox\\fnt_textbox.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "0efd5ebb-abaf-4e79-bf99-ec041aed37da",
             "Value": {
                 "id": "e697d94c-65e4-4fb5-abb1-3fdb7967c77c",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "711be15b-e2dc-4b60-90e7-b5aaf69fbc3d",
+            "Value": {
+                "id": "9a4639b2-818d-4ba7-9666-3ce2f0dd24ee",
+                "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "757dc661-bc41-4a5c-b91b-5734d285b78a",
             "Value": {
                 "id": "9452be4f-f360-49c0-a5ef-877e7792dd47",
@@ -412,6 +428,14 @@
                 "id": "2eb6f575-b721-4e0e-997e-39fc613dbe17",
                 "resourcePath": "views\\bddb3846-db10-4797-844f-662a8f3e4fd1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bdef3814-b315-4df8-8947-7c71fd10d62b",
+            "Value": {
+                "id": "119e39bd-2b50-46ec-ab4f-6d6d4e800cb2",
+                "resourcePath": "objects\\obj_exitDoor\\obj_exitDoor.yy",
+                "resourceType": "GMObject"
             }
         },
         {

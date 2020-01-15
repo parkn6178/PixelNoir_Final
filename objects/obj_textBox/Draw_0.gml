@@ -2,5 +2,6 @@
 draw_sprite(spr_textbox, 0, x, y, );
 
 // Draw text
-text = "This is a test string to test the textbox";
-draw_text(x, y, text);
+draw_set_font(fnt_textbox);
+
+draw_text_ext(x, y, policeText[page], stringHeight, boxWidth);
