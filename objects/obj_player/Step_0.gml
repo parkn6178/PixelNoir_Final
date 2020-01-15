@@ -35,6 +35,12 @@ if (place_meeting (x, y + vsp, obj_brick))
 }
 y = y + vsp;
 
+//Set animation
+if (!place_meeting (x, y + 1, obj_brick))
+{
+	
+}
+
 //Footsteps SFX
 if sprite_index=obj_player
 {
@@ -46,4 +52,3 @@ if sprite_index=obj_player
 		}
 	}
 }
-
