@@ -8,7 +8,7 @@ if(place_meeting(x, y, obj_player))
 		myTextbox.text = policeText;
 	}
 } else {
-	// else destroy the textbox
+	// when you move away, destroy the textbox
 	if (myTextbox != noone)
 	{
 		instance_destroy(myTextbox);
