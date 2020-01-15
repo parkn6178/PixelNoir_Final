@@ -247,14 +247,6 @@
             }
         },
         {
-            "Key": "5e2d5ef1-3eb1-4ccb-bc9f-5a5d3bb2e884",
-            "Value": {
-                "id": "239f194f-21f4-4d41-8ba0-b32b560e0b79",
-                "resourcePath": "sounds\\footsteps\\footsteps.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "653dd71d-12fe-479a-97cc-c07d699d5b28",
             "Value": {
                 "id": "070082c4-cea8-4ae4-a60a-da7e041b2918",
@@ -335,6 +327,14 @@
             }
         },
         {
+            "Key": "91b2e9d8-f2e6-4f91-b4b6-40a4b166b740",
+            "Value": {
+                "id": "5c4e9b74-a83a-41ef-a510-3d59f98d20ee",
+                "resourcePath": "sounds\\footsteps\\footsteps.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "92940f6c-38bf-47e3-a7c1-7e966f04f998",
             "Value": {
                 "id": "8f8a971f-e11b-4257-ae24-7dedd0977601",
@@ -356,6 +356,14 @@
                 "id": "c54ce20f-4d01-4d6c-8aa9-0b4d11d5a009",
                 "resourcePath": "sprites\\detective\\detective.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97aa8f63-6f5e-489d-9e0d-788ef7e9e2bb",
+            "Value": {
+                "id": "fb27240f-c59d-4046-95e6-2373a5960698",
+                "resourcePath": "fonts\\fnt_textbox\\fnt_textbox.yy",
+                "resourceType": "GMFont"
             }
         },
         {
