@@ -49,9 +49,17 @@ else
 if (hsp != 0) image_xscale = sign (hsp);
 
 //Footsteps SFX
-if (sprite_index = detectiveR) && (place_meeting( x, y + 1, obj_brick))
+if (footstep_cooldown = 0)
 {
-	audio_play_sound(footsteps,0,false);	
+	if (sprite_index = detectiveR) && (place_meeting( x, y + 1, obj_brick))
+	{
+		audio_play_sound(footsteps,0,false);	
+	}
+	footstep_cooldown = 5
+}
+else
+{
+	footstep_cooldown = footstep_cooldown - 1
 }
 
 
