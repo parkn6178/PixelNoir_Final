@@ -5,13 +5,13 @@
     "name": "obj_cloth",
     "eventList": [
         {
-            "id": "b1375960-42ee-4470-83bd-b26f5e7f20dc",
+            "id": "7c120b90-0b32-4a08-b5a0-baa3443919f7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c1d495d7-ae51-4236-b78c-34588359545e",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
             "m_owner": "5bc46d83-abe3-4de6-ab1f-e7dbe091c5aa"
         }
     ],

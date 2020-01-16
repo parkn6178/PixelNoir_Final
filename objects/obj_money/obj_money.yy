@@ -5,13 +5,13 @@
     "name": "obj_money",
     "eventList": [
         {
-            "id": "13bb2fbf-7ff0-4b91-9ccd-04489dbc1e6c",
+            "id": "f06cbeee-148c-49be-a286-42d84f7dd6e7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c1d495d7-ae51-4236-b78c-34588359545e",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
             "m_owner": "5cd3c438-aacb-49fb-9506-9e4236c1a74e"
         }
     ],

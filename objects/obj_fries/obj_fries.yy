@@ -5,13 +5,13 @@
     "name": "obj_fries",
     "eventList": [
         {
-            "id": "94706e6f-b605-4e99-b3b5-b27e3fad4d9e",
+            "id": "0c371781-6bc3-428a-8d3e-2d2f1a87888f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c1d495d7-ae51-4236-b78c-34588359545e",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
+            "eventtype": 3,
             "m_owner": "687eb427-d7a2-43a2-a053-f00397d1b41b"
         }
     ],
