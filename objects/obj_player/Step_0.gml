@@ -61,5 +61,3 @@ else
 {
 	footstep_cooldown = footstep_cooldown - 1
 }
-
-
