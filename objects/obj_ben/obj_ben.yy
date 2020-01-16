@@ -1,10 +1,29 @@
 {
-    "id": "f5bf214c-91a0-44f6-921b-75da59c26c9d",
+    "id": "b943baa0-e022-4de9-b992-84b5709339de",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_ben",
     "eventList": [
-        
+        {
+            "id": "713582fb-1391-400e-9a1b-5841dc67e784",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b943baa0-e022-4de9-b992-84b5709339de"
+        },
+        {
+            "id": "fc13e67d-5b60-4668-b80e-fc191c588540",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b943baa0-e022-4de9-b992-84b5709339de"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

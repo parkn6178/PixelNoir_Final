@@ -1,5 +1,5 @@
 myTextbox = noone;
 myName = "Mayor Jose";
 
-policeText[0] = "Good morning, detective.";
-policeText[1] = "Asher's disappearance is quite troubling. You must find him at once!";
+mayorText[0] = "Good morning, detective.";
+mayorText[1] = "Asher's disappearance is quite troubling. You must find him at once!";

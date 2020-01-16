@@ -247,14 +247,6 @@
             }
         },
         {
-            "Key": "653dd71d-12fe-479a-97cc-c07d699d5b28",
-            "Value": {
-                "id": "070082c4-cea8-4ae4-a60a-da7e041b2918",
-                "resourcePath": "objects\\obj_asher\\obj_asher.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "687eb427-d7a2-43a2-a053-f00397d1b41b",
             "Value": {
                 "id": "20441464-5bc0-423b-a2eb-f3be36126c0a",
@@ -471,6 +463,14 @@
             }
         },
         {
+            "Key": "b943baa0-e022-4de9-b992-84b5709339de",
+            "Value": {
+                "id": "0d054c45-359c-4423-aa7a-82e8827aba4a",
+                "resourcePath": "objects\\obj_ben\\obj_ben.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bddb3846-db10-4797-844f-662a8f3e4fd1",
             "Value": {
                 "id": "2eb6f575-b721-4e0e-997e-39fc613dbe17",
@@ -491,6 +491,14 @@
             "Value": {
                 "id": "540b5c0a-da81-4d58-8885-567489e492ea",
                 "resourcePath": "objects\\obj_dinerDoor\\obj_dinerDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c10b944b-a0f8-4af9-9d41-a01e89bb5b37",
+            "Value": {
+                "id": "0134adfb-2c98-4032-88c0-f0491bd8f589",
+                "resourcePath": "objects\\obj_asher\\obj_asher.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -628,14 +636,6 @@
                 "id": "aeb53433-1112-4937-94ee-ea20750bcba0",
                 "resourcePath": "views\\f533072a-f4e0-4024-ac39-356b66b855bd.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f5bf214c-91a0-44f6-921b-75da59c26c9d",
-            "Value": {
-                "id": "8c97d42d-6a39-4d4d-8a19-e2e8a766b659",
-                "resourcePath": "objects\\obj_ben\\obj_ben.yy",
-                "resourceType": "GMObject"
             }
         },
         {
