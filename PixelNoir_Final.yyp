@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "80d70b62-386c-400f-803e-8647a6db96d1",
+            "Value": {
+                "id": "878df816-2ef6-4e44-855b-d0554ec66eca",
+                "resourcePath": "sprites\\spr_cityHall\\spr_cityHall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89a1265f-4fcf-4ec2-83f7-03a56a922b30",
             "Value": {
                 "id": "87a9e9cf-a86b-4345-ace8-2174b5d7933e",
