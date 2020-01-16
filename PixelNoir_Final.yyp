@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "d4cbeff4-0f3c-4519-8b12-68dbf320ca37",
+            "Value": {
+                "id": "318c397e-5b30-45d1-9541-eef8dcfba32b",
+                "resourcePath": "objects\\obj_dinerexit\\obj_dinerexit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de9ff871-cdef-44fc-b382-488faec6ca2d",
             "Value": {
                 "id": "8b8a5753-46a1-468f-9320-e35c6b027437",
