@@ -1,18 +1,18 @@
 {
-    "id": "c588da5b-c1f2-48f6-a61d-ca5ac151574a",
+    "id": "2460060b-757b-47fc-a54d-08fcbe15268a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_camera",
+    "name": "obj_music",
     "eventList": [
         {
-            "id": "b294e8e2-5106-4085-910f-4f121ca3b4b5",
+            "id": "21331e63-52eb-42e0-b9b1-9ac156f59c43",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c1d495d7-ae51-4236-b78c-34588359545e",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "c588da5b-c1f2-48f6-a61d-ca5ac151574a"
+            "eventtype": 0,
+            "m_owner": "2460060b-757b-47fc-a54d-08fcbe15268a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "41968948-158d-4a63-b8f4-f08be87da770",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

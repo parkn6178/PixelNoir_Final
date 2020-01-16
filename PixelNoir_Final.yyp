@@ -114,7 +114,7 @@
             "Key": "2460060b-757b-47fc-a54d-08fcbe15268a",
             "Value": {
                 "id": "2f0bf5fb-db16-4902-9c4c-177248441bc4",
-                "resourcePath": "objects\\object19\\object19.yy",
+                "resourcePath": "objects\\obj_music\\obj_music.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,11 +295,27 @@
             }
         },
         {
+            "Key": "7a7a4c7f-68ec-4fab-90a4-6cfc266e5e37",
+            "Value": {
+                "id": "663dbcae-630c-48e7-916f-9cf1df1141bc",
+                "resourcePath": "sprites\\spr_dinerfloor\\spr_dinerfloor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7bfda09d-a6ae-476e-a7e4-4c6bc98a83f7",
             "Value": {
                 "id": "51a7b234-94af-4510-bfcc-759a003d086e",
                 "resourcePath": "sounds\\buttonpress\\buttonpress.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7eedd1f6-0cd0-4612-a752-65840654b986",
+            "Value": {
+                "id": "a7198434-29d5-42d8-ab54-bd306b506462",
+                "resourcePath": "objects\\obj_dinerfloor\\obj_dinerfloor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
