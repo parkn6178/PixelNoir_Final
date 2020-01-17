@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "317e101d-0c4a-4ceb-a1c5-e6ed6ff32718",
+            "Value": {
+                "id": "526f7dbc-592b-4cdd-ae89-6ebf412f4df2",
+                "resourcePath": "datafiles_yy\\language.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "33e511e6-4b62-4672-b1ed-573e18bb6a74",
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "60d41dc0-650a-4b51-bd38-fb898741b723",
+            "Value": {
+                "id": "d2f5fb11-914f-462a-8c0e-cb07d72595d8",
+                "resourcePath": "sprites\\spr_settings\\spr_settings.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "687eb427-d7a2-43a2-a053-f00397d1b41b",
             "Value": {
                 "id": "20441464-5bc0-423b-a2eb-f3be36126c0a",
@@ -267,6 +283,14 @@
             "Value": {
                 "id": "d254624f-5674-459b-9e77-a3aebe2771ba",
                 "resourcePath": "sprites\\ben\\ben.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "70fbdaa6-d732-4d89-83b2-992011624302",
+            "Value": {
+                "id": "279c13e4-5780-4af7-a204-c2e5a7f4654c",
+                "resourcePath": "sprites\\spr_controls\\spr_controls.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,6 +355,14 @@
             "Value": {
                 "id": "878df816-2ef6-4e44-855b-d0554ec66eca",
                 "resourcePath": "sprites\\spr_cityHall\\spr_cityHall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80f292bb-e461-4ea8-b60c-375d62da62b4",
+            "Value": {
+                "id": "04061464-eb42-430a-a9b7-dfbad202802b",
+                "resourcePath": "sprites\\sprmenu_background\\sprmenu_background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -412,6 +444,14 @@
                 "id": "36cf1260-bc74-465a-9b40-26fe51b2e352",
                 "resourcePath": "views\\a559b1ce-d898-4c3d-b8eb-fe83056fd260.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a60659f5-4eba-4988-b62e-d5747104cc39",
+            "Value": {
+                "id": "bcd101a9-d9f6-4937-9794-c1fda965499f",
+                "resourcePath": "sprites\\sprspanishconrtols\\sprspanishconrtols.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -628,14 +668,6 @@
                 "id": "3116378c-4976-42f7-9085-5062a29b5665",
                 "resourcePath": "sounds\\pickup\\pickup.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e617b9f9-9c97-4560-a2de-413cd552181a",
-            "Value": {
-                "id": "eee298ed-bb24-45ee-9a17-d31fd5448723",
-                "resourcePath": "datafiles_yy\\language.ini.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {

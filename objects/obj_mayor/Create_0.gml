@@ -3,7 +3,7 @@ image_xscale = -1;
 
 //Set text
 myTextbox = noone;
-myName = "Mayor Jose";
+myName = scr_string(3);
 
-mayorText[0] = "Good morning, detective.";
-mayorText[1] = "Asher's disappearance is quite troubling. You must find him at once!";
+mayorText[0] = scr_string(4);
+mayorText[1] = scr_string(5);
