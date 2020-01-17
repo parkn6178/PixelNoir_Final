@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "317e101d-0c4a-4ceb-a1c5-e6ed6ff32718",
+            "Value": {
+                "id": "526f7dbc-592b-4cdd-ae89-6ebf412f4df2",
+                "resourcePath": "datafiles_yy\\language.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "33e511e6-4b62-4672-b1ed-573e18bb6a74",
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
@@ -628,14 +636,6 @@
                 "id": "3116378c-4976-42f7-9085-5062a29b5665",
                 "resourcePath": "sounds\\pickup\\pickup.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e617b9f9-9c97-4560-a2de-413cd552181a",
-            "Value": {
-                "id": "eee298ed-bb24-45ee-9a17-d31fd5448723",
-                "resourcePath": "datafiles_yy\\language.ini.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
