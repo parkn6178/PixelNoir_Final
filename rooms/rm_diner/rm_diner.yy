@@ -25,14 +25,15 @@
         "6f2d0427-f3fe-4d85-9aeb-fe7b6de401cd",
         "e4829e2d-263c-40a6-a2df-b28e9e578b15",
         "2280c1e4-bee7-43e2-88b9-1422294fc7eb",
-        "e00dfabb-5b8d-4f20-a143-7156ea94972f"
+        "e00dfabb-5b8d-4f20-a143-7156ea94972f",
+        "cfc8e2c5-d4aa-4042-8616-448e23e7bed3"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "lyr_player",
-            "id": "f0b3772f-95f6-4f35-9e16-fb4c407f9754",
+            "name": "lyr_text",
+            "id": "b78885b3-58a4-46a7-b460-ec0d232eb852",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -43,8 +44,35 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "lyr_player",
+            "id": "f0b3772f-95f6-4f35-9e16-fb4c407f9754",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
 {"name": "inst_26CCF430","id": "e4829e2d-263c-40a6-a2df-b28e9e578b15","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26CCF430","objId": "c1d495d7-ae51-4236-b78c-34588359545e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 208,"y": 676},
-{"name": "inst_48138137","id": "2280c1e4-bee7-43e2-88b9-1422294fc7eb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_48138137","objId": "f5bf214c-91a0-44f6-921b-75da59c26c9d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 910,"y": 682}
+{"name": "inst_48138137","id": "2280c1e4-bee7-43e2-88b9-1422294fc7eb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_48138137","objId": "f5bf214c-91a0-44f6-921b-75da59c26c9d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 910,"y": 682},
+{"name": "inst_7EAFE8C1","id": "cfc8e2c5-d4aa-4042-8616-448e23e7bed3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7EAFE8C1","objId": "2460060b-757b-47fc-a54d-08fcbe15268a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 992,"y": 0}
             ],
             "layers": [
 
@@ -60,7 +88,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "lyr_floor",
             "id": "cb0dd1e1-3ddd-4480-94a0-14a62ae90a74",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -101,7 +129,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "lyr_door",
             "id": "24cd02e6-2c77-429a-b7e8-502634bc6e59",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -130,7 +158,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4292280295 },
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
