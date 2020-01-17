@@ -26,7 +26,8 @@
         "eb68d4f6-2f81-4208-a65b-2d465c42bd08",
         "a7799ac7-ffcf-420f-bc22-19a54b13169d",
         "57d4391c-9058-4570-8376-eab97bfd37fc",
-        "4f38cb92-6fda-49f0-8dc4-ce1028b072b0"
+        "4f38cb92-6fda-49f0-8dc4-ce1028b072b0",
+        "e722d08a-934d-4757-93ef-c19e878f0c07"
     ],
     "IsDnD": false,
     "layers": [
@@ -102,13 +103,39 @@
             "visible": true
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "lyr_door",
+            "id": "c543a213-296b-4cc9-ba1e-583c01783d87",
+            "depth": 200,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_4AE530B2","id": "e722d08a-934d-4757-93ef-c19e878f0c07","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4AE530B2","objId": "d4cbeff4-0f3c-4519-8b12-68dbf320ca37","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 64,"y": 608}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "2958b5c5-898c-4f8f-914e-77b6ba911f99",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4291611775 },
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

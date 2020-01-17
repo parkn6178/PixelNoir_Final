@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_notebook",
     "eventList": [
-        
+        {
+            "id": "b597b470-8cd1-4c11-9297-bebfbda54641",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "52056bf8-71dd-4e92-94fc-995004cbdae4"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
