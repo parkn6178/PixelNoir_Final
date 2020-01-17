@@ -1,3 +1,7 @@
+//Tell the mayor to face left
+image_xscale = -1;
+
+//Set text
 myTextbox = noone;
 myName = "Mayor Jose";
 
