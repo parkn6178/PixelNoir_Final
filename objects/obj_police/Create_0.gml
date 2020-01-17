@@ -1,5 +1,7 @@
-myTextbox = noone;
-myName = "Officer Nicole";
+global.language = 0;
 
-policeText[0] = "Hey there, detective!";
-policeText[1] = "How is the investigation going?";
+myTextbox = noone;
+myName = scr_string(0);
+
+policeText[0] = scr_string(1);
+policeText[1] = scr_string(2);
