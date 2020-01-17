@@ -1,5 +1,5 @@
 {
-    "id": "8bfd48e9-6dea-4046-b3cf-129fc75cec1c",
+    "id": "7c3ce5ad-c966-4f71-82e8-1e77fdfb6e84",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_menu_switch",
