@@ -6,7 +6,7 @@ if(place_meeting(x, y, obj_player))
 		if (myTextbox == noone)
 		{
 			// if there is not already a textbox, create one
-			myTextbox = instance_create_layer(x, y, "lyr_text", obj_textbox);
+			myTextbox = instance_create_layer (x - 500, y - 250, "lyr_text", obj_textbox);
 			myTextbox.text = benText;
 			myTextbox.creator = self;
 			myTextbox.name = myName;
