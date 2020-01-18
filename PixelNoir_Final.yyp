@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "317e101d-0c4a-4ceb-a1c5-e6ed6ff32718",
-            "Value": {
-                "id": "526f7dbc-592b-4cdd-ae89-6ebf412f4df2",
-                "resourcePath": "datafiles_yy\\language.ini.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "33e511e6-4b62-4672-b1ed-573e18bb6a74",
             "Value": {
                 "id": "301e8a62-e958-4771-9816-10bd6c070a82",
@@ -716,6 +708,14 @@
                 "id": "318c397e-5b30-45d1-9541-eef8dcfba32b",
                 "resourcePath": "objects\\obj_dinerexit\\obj_dinerexit.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dc6ed3a1-62b3-4dc1-9e84-5ad4cee40ea5",
+            "Value": {
+                "id": "83cc4157-a575-4b2b-80ee-d3c9bc986978",
+                "resourcePath": "datafiles_yy\\language.ini.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
